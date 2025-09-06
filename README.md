@@ -1,4 +1,4 @@
-**SwasthAI-Mitra** 
+## SwasthAI-Mitra
 
 SwasthAIMitra is an intelligent health companion designed to provide preliminary medical guidance. By selecting your symptoms from a comprehensive list, the app utilizes a machine learning model to predict a potential underlying disease. It then offers a holistic set of recommendations, including a description of the condition, crucial precautions, common medications, and tailored diet and workout plans.
 
